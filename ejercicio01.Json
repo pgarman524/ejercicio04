@@ -1,0 +1,44 @@
+{
+    "estudiantes":
+    {
+
+        "informacion_personal":
+        {
+            "nombre":"Antonio",
+            "apellidos":"Sertijo Asertijo",
+            "edad":"19"
+        },
+        "lista_asignaturas":
+        [
+            {
+                "lenguaje_marcas":"5",
+                "sistemas_informaticos":"6",
+                "base_datos":"8",
+                "programacion":"9",
+                "fol":"3",
+                "entornos_desarrollo":"6"
+            }
+            
+        ]
+    },
+    "profesores":
+      {
+        "nombre":"David",
+        "apellidos":"Nunez Nuñez",
+        "lista_asignaturas":
+        [
+        {
+        "lenguaje_marcas_uno_daw":
+        {
+            "creditos":"60"
+        },
+        "lenguaje_marcas_uno_srmc":
+        {
+            "creditos":"60"
+        }
+        }
+        ]
+
+    }
+
+}

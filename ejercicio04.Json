@@ -1,0 +1,99 @@
+{
+    "empleados": [
+        {
+          "id": 1,
+          "informacion_personal":
+          {
+              "nombre":"Antonio",
+              "apellidos":"Sertijo Asertijo",
+              "edad":"19",
+              "cargo":"Analista de Datos",
+              "salario":62000
+          },
+          "proyectos":
+          [
+            {
+                "nombre":"ProyectoX",
+                "detalles":"Proyecto clasificado.",
+                "fecha_inicio":"25/07/19",
+                "fecha_fin":"05/08/25",
+                "tareas":"Gestión de proyectos informáticos"
+            },
+            {
+                "nombre":"Proyecto Manhatan",
+                "detalles":"Proyecto clasificado sobre armas nucleares.",
+                "fecha_inicio":"22/12/17",
+                "fecha_fin":"09/11/2x",
+                "tareas":"Creador del sistema de lanzamiento"
+            }
+
+          ]
+          
+           
+
+        },
+        {
+            "id": 2,
+          "informacion_personal":
+          {
+              "nombre":"Robert",
+              "apellidos":"Blanco Carrero",
+              "edad":"45",
+              "cargo":"Desarrollador",
+              "salario":60000
+          },
+          "proyectos":
+          [
+            {
+                "nombre":"ProyectoX",
+                "detalles":"Proyecto clasificado.",
+                "fecha_inicio":"25/07/19",
+                "fecha_fin":"05/08/25",
+                "tareas":"Desarrollo del software."
+            },
+            {
+                "nombre":"Proyecto Murcianico",
+                "detalles":"Proyecto para la datación de la existencia de Murcia.",
+                "fecha_inicio":"29/12/22",
+                "fecha_fin":"12/04/24",
+                "tareas":"Base de datos."
+            }
+        ]
+        },
+        {
+            "id": 3,
+          "informacion_personal":
+          {
+              "nombre":"Ignance",
+              "apellidos":"Molinillo Gutierrez",
+              "edad":"65",
+              "cargo":"Programador Senior",
+              "salario":68000
+          },
+          "proyectos":
+          [
+            {
+                "nombre":"ProyectoX",
+                "detalles":"Proyecto clasificado.",
+                "fecha_inicio":"25/07/19",
+                "fecha_fin":"05/08/25",
+                "tareas":"Desarrollo del software."
+            },
+            {
+                "nombre":"Proyecto Manhatan",
+                "detalles":"Proyecto clasificado sobre armas nucleares.",
+                "fecha_inicio":"22/12/17",
+                "fecha_fin":"09/11/2x",
+                "tareas":"Programación del sistema de lanzamiento"
+            }
+        ]
+        }
+     
+    
+      ]
+      
+
+}
+
+
+
